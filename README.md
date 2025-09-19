@@ -74,5 +74,5 @@ Matplotlib
 
 ✨ Credits
 
-Developed by Chethana Rahul 💻
+Developed by Chethana Rahul.
 

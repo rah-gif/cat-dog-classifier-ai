@@ -49,9 +49,11 @@ Note: " you must create a preject directory(project folder : inside your computo
 
 📂 Setup & Usage
 
+NOTE: you must open "cmd" from your created folder📂 then folllow the below instructions correctly!
+
 1. Clone the repo:
-   git clone https://github.com/rah-gif/cat-dog-classifier-ai.git
-   cd cat-dog-classifier-ai
+   1)  git clone https://github.com/rah-gif/cat-dog-classifier-ai.git
+   2)  cd cat-dog-classifier-ai
 
 2. Install dependencies:
    pip install -r requirements.txt
@@ -64,13 +66,13 @@ Note: " you must create a preject directory(project folder : inside your computo
 
 📦 Download Trained Model Automatically
 
-NOTE: The model will be downloaded automatically if you add this part top of predict.py. It will dowload automatically when you run the model. you won't need manually doelaod it from Google drive unless you dont need it.
+NOTE: The model will be downloaded automatically if you add this part "top of predict.py". It will dowload automatically when you run the model. you won't need manually doelaod it from Google drive unless you dont need it.
 
 ----------------------------------------------------------------------------------------------
+
 import os
 import gdown
 
-# Automatically download model if not present
 if not os.path.exists("cat_dog_model.h5"):
     url = "https://drive.google.com/uc?export=download&id=1lMChe9-zfbpSqaAy5LkxTV6C50ut7-0E"
     gdown.download(url, "cat_dog_model.h5", quiet=False)

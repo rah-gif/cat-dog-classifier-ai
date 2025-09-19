@@ -17,20 +17,20 @@ This model achieves ~76% validation accuracy after 15 epochs.
 - TensorFlow/Keras-based CNN model
 - Saved trained model as `cat_dog_model.h5`
 
----
+-------------------------------------------------------
 
 ## 📂 Project Structure
 cat-dog-classifier-ai/
 │
-├── model.py # Training script
-├── cat_dog_model.h5 # Saved trained model
-├── requirements.txt # Dependencies
-├── README.md # Documentation
-├── prepare_data.py  #image pre-proceesing
-├── predict.py #run the model
+├── model.py 
+├── cat_dog_model.h5 
+├── requirements.txt 
+├── README.md
+├── prepare_data.py  
+├── predict.py 
 └── data/ # (Optional) dataset instructions
 
----
+------------------------------------------------------
 
 
 

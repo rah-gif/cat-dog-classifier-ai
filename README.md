@@ -46,6 +46,7 @@ Note: " you must create a preject directory(project folder : inside your computo
 - NumPy
 - opencv-python
 
+-------------------------------------------------------
 
 📂 Setup & Usage
 
@@ -64,7 +65,7 @@ NOTE: you must open "cmd" from your created folder📂 then folllow the below in
 
 
 
-
+----------------------------------------------------------------------------------------------
 
 📦 Download Trained Model Automatically
 
@@ -95,11 +96,11 @@ if not os.path.exists("cat_dog_model.h5"):
       (python predict.py)
 
 
-
+---------------------------------------------------------------------------------------------
       
 NOTE: if you want to check using diffent images to predict accuracy, you can simply add a {.jpg}  (MUST be in dataset folder, outside images will cause occuring errors) image to predict.py bottom line.  And see whether it is possibly working accurately!
 
-
+--------------------------------------------------------------------------------------------
 
 ✨ Credits
 

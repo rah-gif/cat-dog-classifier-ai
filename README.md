@@ -62,13 +62,15 @@ cat_dog_model.h5
 
 📦 Requirements
 
-Python 3.x
+1)  Python 3.x
 
-TensorFlow / Keras
+2) TensorFlow / Keras
 
-NumPy
+4) NumPy
 
-Matplotlib
+5) Matplotlib
+
+
 
 
 

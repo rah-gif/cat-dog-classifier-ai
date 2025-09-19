@@ -34,7 +34,7 @@ cat-dog-classifier-ai/
 ## 🛠 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/cat-dog-classifier-ai.git
+   git clone https://github.com/rah-gif/cat-dog-classifier-ai.git
    cd cat-dog-classifier-ai
 
 

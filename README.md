@@ -82,16 +82,20 @@ if not os.path.exists("cat_dog_model.h5"):
     
 ---------------------------------------------------------------------------------------------
 
+4. (Optional) Download dataset:
+   [Download dataset here](https://drive.google.com/file/d/1XIOxg9yHCjsQaDilyae_XJ2ZtKxGhF_w/view?usp=sharing)
+   Note*1 Place it inside the 'data/' folder inside your main project folder.
+   Note*2 The format is (.rar). So you should extract them first.
 
-4. Run predictions:
+5. Run predictions:
    python predict.py
 
-5. (Optional) Train the model:
+6. (Optional) Train the model:
    python model.py
    → Requires dataset in 'data/' folder
    → Trained model will be saved as cat_dog_model.h5
 
-6. you can run the model by typing:
+7. you can run the model by typing:
 
       (python predict.py)
 

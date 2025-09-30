@@ -69,7 +69,7 @@ NOTE: you must open "cmd" from your created folder📂 then folllow the below in
 
 📦 Download Trained Model Automatically
 
-NOTE: The model will be downloaded automatically if you add this part "top of predict.py". It will dowload automatically when you run the model. you won't need manually doelaod it from Google drive unless you dont need it.
+NOTE: The model will be downloaded automatically if you add this part "top of predict.py". It will download automatically when you run the model. you won't need manually doelaod it from Google drive unless you don't need it.
 
 ----------------------------------------------------------------------------------------------
 
